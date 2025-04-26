@@ -1,2 +1,2 @@
-# fafo-c.py
+# fafo-c++
 ejemplo de los jugadores del partido fifo
